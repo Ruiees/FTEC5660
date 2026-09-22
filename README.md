@@ -23,6 +23,9 @@ You may use prompt chaining, routing, parallel calls, reflection, or a
 combination. Your final responses should each contain one HKD amount. Do not
 hard-code filenames or public answers; grading uses unseen receipt folders.
 
+
+128494382232
+
 ## Setup and public test
 
 ```bash
